@@ -3,7 +3,7 @@
 ## Beschreibung
 Mit diesem Programm kannst du Vokabeln üben, die Sie im Voraus eingetragen haben.
 
-## Dieses Programm benötigt folgende Module
+## Benötigte Module
 - colorama
 - pyfiglet
 
